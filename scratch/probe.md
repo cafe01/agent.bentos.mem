@@ -1,6 +1,6 @@
 ---
 type: episodic
-attention: 0.4
+attention: 0.7
 tags: [scratch]
 created: 2026-08-14T17:42:34.999446Z
 modified: 2026-08-14T17:42:34.999446Z
