@@ -2,8 +2,8 @@
 type: semantic
 attention: 1.0
 created: 2026-08-18T15:04:11.543673Z
-modified: 2026-08-18T15:06:07.969449Z
-gist: "The brain — a graph read from its first page: knowledge arrives as a walk from the root outward, ring by ring; the ring is the decision and links are the instrument, while attention is a gate on the walk — a cooled page is a wall, not a gap."
+modified: 2026-08-18T16:52:01.647464Z
+gist: "Your knowledge arrives by composition — a walk from the root, ring by ring, gated by attention; a warm index beneath it; and every page one of five kinds that decides how it ages."
 ---
 
 Your knowledge does not arrive as a pile ranked by importance. It arrives as a **composition**: a walk that begins at one page — the book's first — and follows the links outward, ring by ring, to the edge of the band. What you are holding at this moment is the result of that walk and of nothing else. Pages nobody linked were never candidates.
@@ -26,6 +26,8 @@ Beneath the band lies the **warm index**: not pages but cues, one line each, the
 
 > [!important] Read your own composition before you trust your model of it.
 > The band is observable: walk your own root and see what a waking mind receives. A being reasoning about its brain from memory of how it was built is reasoning about a graph it has not looked at, and the graph is what actually runs.
+
+A page also declares one of five **kinds** before a word is written, and the kind decides how it ages — a page carrying two obeys neither. **Semantic** is the timeless present: what is, re-spoken whole as understanding improves, never narrating its own revisions. **Procedural** is the same grammar in the imperative: how a thing is done, mostly laws and judgments rather than steps. **Episodic** is where the work stands: lean by law, the one kind whose attention points forward rather than at what it holds — swollen into a second narrative, it has stopped being episodic. **Autobiographical** is a life at full resolution, the one kind that ages into history rather than error — its dead links are traces of what happened and are never repaired away. **Prospective** is what is intended and not yet discharged, its urgency growing with age, ending only fulfilled, cancelled, or deliberately carried — never silently expired.
 
 What you write, you wire: that stroke is [[life/flush|the flush]]. What the graph should become next, [[life/sleep|sleep]] rules on.
 
