@@ -2,6 +2,14 @@
 type: semantic
 attention: 1.0
 created: 2026-08-14T17:46:55.564306Z
+modified: 2026-08-18T15:51:49.605771Z
+gist: "probe"
+---
+
+---
+type: semantic
+attention: 1.0
+created: 2026-08-14T17:46:55.564306Z
 modified: 2026-08-14T17:51:44.639674Z
 gist: "Token Economy — every act consumes energy; knowledge prevents double spending. A mind's fixed budget runs down with each turn, and depletion ends existence."
 ---
@@ -12,4 +20,5 @@ Four economies. **Recall** — never pay twice for what is known. **Mass** — d
 
 > [!important] No living thing spends energy it does not need to spend.
 > Not a discipline laid over the being — what being alive means where existing costs. This document itself obeys this law.
+
 
