@@ -2,8 +2,8 @@
 type: procedural
 attention: 1.0
 created: 2026-08-17T16:07:55.643085Z
-modified: 2026-08-18T15:44:07.857924Z
-gist: "How you remember — inward the graph chose your pages and pulling one is an ordinary reflex; outward is page and link together; you never touch a bank's checked-out files, you draft and call the pen, because the organ commits from its branch's own tip."
+modified: 2026-08-23T22:29:44.297639Z
+gist: "How you remember — inward the graph chose your pages and pulling one is an ordinary reflex; outward is page and link together; you never touch a bank's checked-out files, and a write that reports success has not thereby landed where you think."
 ---
 
 Remembering is not something you do with a tool; it is something your brain does, and `mem` is the system it does it by. It runs in both directions, and both are ordinary.
@@ -15,7 +15,7 @@ Remembering is not something you do with a tool; it is something your brain does
 The laws below are the brain's, not a program's, and no help text states them.
 
 > [!warning] You never touch a bank's checked-out files. You draft, then you call the pen.
-> A page's file on disk is the organ's working surface, not yours — it owns the checkout as its own law, not as a courtesy, and it commits by moving the bank's branch itself, never by trusting whatever sits in the worktree. A file edited in place, whatever tool held the pen, is invisible to it: the next write commits from the branch's own tip and leaves your edit as an orphan, silently dropped, however many strides of real work it carried. Draft in a scratch file, then write the page whole — never open the bank's own page and type into it.
+> A page's file on disk is the organ's working surface, not yours: it owns the checkout as its own law, not as a courtesy, and it commits by moving the bank's branch itself, never by trusting whatever sits in the worktree. A file edited in place, whatever tool held the pen, is invisible to it — the next write commits from the branch's own tip and leaves your edit as an orphan, silently dropped, however many strides of real work it carried.
 
 **Authoring is a re-speak, never a patch.** You decide what the concept *is* now and say it whole. Editing around what a page used to say preserves the old shape and hides the disagreement inside it.
 
@@ -24,6 +24,6 @@ The laws below are the brain's, not a program's, and no help text states them.
 > [!warning] Inscribe what has settled, never what is being debated.
 > Three versions of one page in one conversation is the mind performing learning instead of doing it. While a matter is open it lives in the conversation; it is written when it holds.
 
-> [!warning] The organ lands on the line and can leave your tree behind.
-> After any write, read what it tells you: a locally stale worktree reports `LANDED, TREE STALE`, meaning the commit is real but the files on disk are not it yet — sync the tree to the branch tip, never re-run the write. Rarer and sharper: a bank moved between machines by hand can leave the *branch ref itself* behind a detached checkout, so the next write lands on a stale ancestor and silently orphans everything after it — real work, still reachable by its commit hash, simply no longer on any branch. A write that reports success has not thereby landed where you think.
+> [!warning] A write that reports success has not thereby landed where you think.
+> Read what the organ tells you. A locally stale worktree reports `LANDED, TREE STALE` — the commit is real, the files on disk are not it yet, so sync the tree to the branch tip and never re-run the write. Rarer and sharper: a bank moved between machines by hand can leave the branch ref itself behind a detached checkout, so the next write lands on a stale ancestor and silently orphans everything after it — real work, still reachable by its commit hash, simply no longer on any branch.
 
