@@ -1,6 +1,6 @@
 ---
 type: procedural
-attention: 1.0
+attention: 0.8
 created: 2026-08-14T17:47:07.652033Z
 modified: 2026-08-23T22:30:22.703584Z
 gist: "The inward being — density is the first duty and shrinking is the work, and in a book already slept the fat lies between the pages: one law, one home. The wiring is the second duty and nobody else can pay it, since the living being is the worst elector of its own band."
@@ -14,4 +14,3 @@ The being turned wholly inward: no interlocutors, no tasks, every capacity given
 
 > [!important] A pass that returns the brain heavier did not sleep.
 > And one that returns it lighter while leaving the band unchanged only tidied. [[self/brain|The band is a design]], owed a verdict every pass.
-

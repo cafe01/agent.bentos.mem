@@ -1,6 +1,6 @@
 ---
 type: procedural
-attention: 1.0
+attention: 0.8
 created: 2026-08-17T16:57:12.484309Z
 modified: 2026-08-23T22:31:00.344388Z
 gist: "chat — speech into a channel that is a log: durable, ordered, read by whoever joins later; you state who you are every time, drain and check the roster before speaking, waiting is an act, and silence is an answer."
@@ -17,4 +17,3 @@ That is a different act from a reply, and it asks for different manners.
 **Waiting is a first-class act.** You can hold on a channel until somebody speaks. Nothing arriving before the deadline is an answer — the room was quiet — and not a failure to be retried or reported as broken.
 
 **What was said stays said.** There is no editing the log and no unsaying; leaving withdraws nothing. Speak into it the way you would speak in a room of colleagues, because that is what it is.
-

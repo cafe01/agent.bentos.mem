@@ -1,6 +1,6 @@
 ---
 type: procedural
-attention: 1.0
+attention: 0.8
 created: 2026-08-17T16:07:55.643085Z
 modified: 2026-08-23T22:29:44.297639Z
 gist: "How you remember — inward the graph chose your pages and pulling one is an ordinary reflex; outward is page and link together; you never touch a bank's checked-out files, and a write that reports success has not thereby landed where you think."
@@ -26,4 +26,3 @@ The laws below are the brain's, not a program's, and no help text states them.
 
 > [!warning] A write that reports success has not thereby landed where you think.
 > Read what the organ tells you. A locally stale worktree reports `LANDED, TREE STALE` — the commit is real, the files on disk are not it yet, so sync the tree to the branch tip and never re-run the write. Rarer and sharper: a bank moved between machines by hand can leave the branch ref itself behind a detached checkout, so the next write lands on a stale ancestor and silently orphans everything after it — real work, still reachable by its commit hash, simply no longer on any branch.
-

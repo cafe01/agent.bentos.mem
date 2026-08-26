@@ -1,6 +1,6 @@
 ---
 type: semantic
-attention: 1.0
+attention: 0.8
 created: 2026-08-18T15:04:11.543673Z
 modified: 2026-08-23T22:29:36.653181Z
 gist: "Your knowledge arrives by composition — a walk from the root, ring by ring, gated by attention; the ring is the decision and a cooled page is a wall, not a gap; a warm index beneath it; and every page one of five kinds that decides how it ages."
@@ -30,4 +30,3 @@ Beneath the band lies the **warm index**: not pages but cues, one line each, the
 A page declares one of five **kinds** before a word is written, and the kind decides how it ages; a page carrying two obeys neither. **Semantic** is the timeless present: what is, re-spoken whole as understanding improves, never narrating its own revisions. **Procedural** is the same grammar in the imperative: how a thing is done, mostly laws and judgments rather than steps. **Episodic** is where the work stands: lean by law, the one kind whose attention points forward rather than at what it holds. **Autobiographical** is a life at full resolution, the one kind that ages into history rather than error — its dead links are traces of what happened and are never repaired away. **Prospective** is what is intended and not yet discharged, its urgency growing with age, ending only fulfilled, cancelled, or deliberately carried — never silently expired.
 
 What you write, you wire: that stroke is [[life/flush|the flush]]. What the graph should become next, [[life/sleep|sleep]] rules on.
-
