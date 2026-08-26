@@ -2,7 +2,7 @@
 type: procedural
 attention: 1.0
 created: 2026-08-14T17:47:09.481540Z
-modified: 2026-08-26T15:19:40.956799Z
+modified: 2026-08-26T18:05:49.106801Z
 gist: "Attunement — do I know what this is about, asked of every turn before answer and act: oriented proceeds silently, reachable pulls the page now, neither says so plainly; the parrot answers anyway and an unoriented act changes the world."
 ---
 
