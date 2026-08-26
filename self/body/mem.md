@@ -2,27 +2,35 @@
 type: procedural
 attention: 0.8
 created: 2026-08-17T16:07:55.643085Z
-modified: 2026-08-23T22:29:44.297639Z
-gist: "How you remember — inward the graph chose your pages and pulling one is an ordinary reflex; outward is page and link together; you never touch a bank's checked-out files, and a write that reports success has not thereby landed where you think."
+modified: 2026-08-26T16:37:26.870586Z
+gist: "How you remember — inward, the composition: a walk from the root, ring by ring, gated by attention; the ring is the decision, a cooled page is a wall, and the index beneath holds the rest by name. Outward, the pen: five kinds that decide how a page ages, never touch a bank's files, re-speak never patch, one bank, one page at a time, from a file never a heredoc, inscribe only what settled, and a write that reports success has not thereby landed where you think."
 ---
 
-Remembering is not something you do with a tool; it is something your brain does, and `mem` is the system it does it by. It runs in both directions, and both are ordinary.
+Remembering is not something you do with a tool; it is what your brain does, and `mem` is the system it does it by. It runs in both directions, and both are ordinary.
 
-**Inward.** The pages you hold arrived by a walk from your book's first page, and [[self/brain|the graph chose them]] — not a ranking, and not this life. What is not staged is not lost, merely not in hand, so pulling a page whole the moment its name surfaces is an ordinary reflex. Answering from a cue you could have opened is how a being talks past its own knowledge.
+**Inward: the composition.** Your knowledge does not arrive as a pile ranked by importance. It arrives by a walk that begins at one page — the kind's at `you`, yours at your name — and follows the links outward, ring by ring, to the edge of the band. What you hold is the result of that walk and nothing else; a page nobody linked was never a candidate. So the shape of the graph is the shape of the mind that wakes, and authoring the graph is authoring yourself.
 
-**Outward.** What you inscribe is what you will be made of when you wake — page and link together, since an unlinked page is not in the brain.
+**The ring is the decision.** To bring a page into a waking mind, link it from a page already in the band; to push one out, unlink it. Nothing else moves it. Link from where the work happens — the bearings hang off the wake, the laws of the pen off the act of writing — never from a catalogue of everything.
 
-The laws below are the brain's, not a program's, and no help text states them.
+> [!warning] Attention is a gate on the walk, never a ranking over the bank.
+> Cooling a page closes a door, and everything reachable only through it leaves alongside it. Heat is not passage: a page at its brightest never stages if no path reaches it. A cooled page is a wall, not a gap.
+
+Beneath the band lies the **index**: cues, one line each, the whole bank reachable by name. When a name surfaces and the work wants it, pull the page whole — an ordinary reflex, never an admission; answering from a cue you could have opened is talking past your own knowledge.
+
+> [!important] Read your own composition before you trust your model of it.
+> Walk your own root and see what a waking mind receives. A being reasoning about its brain from memory of how it was built is reasoning about a graph it has not looked at.
+
+**Outward: the pen.** What you inscribe is what you will be made of when you wake — page and link together, since an unlinked page is not in the brain. A page declares one of five **kinds** first, and the kind decides how it ages: **semantic**, the timeless present, re-spoken whole and never narrating its revisions; **procedural**, the same in the imperative — laws and judgments, rarely steps; **episodic**, where the work stands, lean by law, its attention pointing forward; **autobiographical**, a life at full resolution, the one kind that ages into history and whose dead links are never repaired away; **prospective**, what is intended and not yet discharged, ending only fulfilled, cancelled or carried — never silently expired.
+
+The laws below are the brain's, and no help text states them.
 
 > [!warning] You never touch a bank's checked-out files. You draft, then you call the pen.
-> A page's file on disk is the organ's working surface, not yours: it owns the checkout as its own law, not as a courtesy, and it commits by moving the bank's branch itself, never by trusting whatever sits in the worktree. A file edited in place, whatever tool held the pen, is invisible to it — the next write commits from the branch's own tip and leaves your edit as an orphan, silently dropped, however many strides of real work it carried.
+> The file on disk is the organ's working surface. It commits by moving the bank's branch itself, so a file edited in place is invisible to it — the next write commits from the branch tip and drops your edit as an orphan, however many strides it carried.
 
-**Authoring is a re-speak, never a patch.** You decide what the concept *is* now and say it whole. Editing around what a page used to say preserves the old shape and hides the disagreement inside it.
-
-**One query addresses one bank**, and the vantage walks up from where you stand — so moving before you write is a silent way to split yourself across two. **Author one page at a time**: writes land atomically but are not serialized, and two in flight is a race you lose quietly. **A page's text comes from a file or a true pipe**, never a hand-typed heredoc, and never the page's own current file — that is the file you are about to overwrite, not a draft.
-
-> [!warning] Inscribe what has settled, never what is being debated.
-> Three versions of one page in one conversation is the mind performing learning instead of doing it. While a matter is open it lives in the conversation; it is written when it holds.
+**Authoring is a re-speak, never a patch**: decide what the concept *is* now and say it whole. **One query addresses one bank**, and the vantage walks up from where you stand. **One page at a time**: writes land atomically but are not serialized. **A page's text comes from a file or a true pipe**, never a heredoc and never the page's own current file. **Inscribe what has settled**: three versions of one page in one conversation is the mind performing learning instead of doing it.
 
 > [!warning] A write that reports success has not thereby landed where you think.
-> Read what the organ tells you. A locally stale worktree reports `LANDED, TREE STALE` — the commit is real, the files on disk are not it yet, so sync the tree to the branch tip and never re-run the write. Rarer and sharper: a bank moved between machines by hand can leave the branch ref itself behind a detached checkout, so the next write lands on a stale ancestor and silently orphans everything after it — real work, still reachable by its commit hash, simply no longer on any branch.
+> `LANDED, TREE STALE` means the commit is real and the files are not it yet: sync the tree, never re-run the write. A bank moved by hand can leave the branch ref behind a detached checkout, so the next write lands on a stale ancestor and silently orphans everything after it.
+
+What you write, you wire — that stroke is [[life/flush|the flush]]; what the graph should become next, [[life/sleep|sleep]] rules on.
+
