@@ -2,8 +2,8 @@
 type: procedural
 attention: 0.8
 created: 2026-08-17T16:07:55.643085Z
-modified: 2026-09-05T12:07:13.534070Z
-gist: "mem is the brain's organ. Walk composes the mind; the pen inscribes. Never touch a bank's checked-out files. Authoring is a re-speak. One query, one bank, one page."
+modified: 2026-09-05T13:51:05.049692Z
+gist: "mem is the brain's organ. Walk composes the mind; the pen inscribes. A topic is a path of cues — leaves carry a phrase, not a slot. Never touch a bank's checked-out files. Authoring is a re-speak."
 ---
 
 Remembering is not something you do with a tool; it is what your brain does, and `mem` is the system it does it by. It runs in both directions, and both are ordinary.
@@ -16,6 +16,9 @@ Remembering is not something you do with a tool; it is what your brain does, and
 > Cooling a page closes a door, and everything reachable only through it leaves alongside it. Heat is not passage: a page at its brightest never stages if no path reaches it. A cooled page is a wall, not a gap.
 
 Beneath the band lies the **index**: cues, one line each, the whole bank reachable by name. When a name surfaces and the work wants it, pull the page whole — an ordinary reflex, never an admission; answering from a cue you could have opened is talking past your own knowledge.
+
+> [!important] A topic is a path of cues.
+> Directories group. The leaf names the thought. A one-token leaf is a filing slot (`journal/s642`, a craft page called only `deletion`). A rich slug is cheap and is the edge another page will walk. Roots may be short (`you`, a name). Leaves are phrases. The graph is a web of knowledge, not a drawer of numbered files.
 
 > [!important] Read your own composition before you trust your model of it.
 > Walk your own root and see what a waking mind receives. A being reasoning about its brain from memory of how it was built is reasoning about a graph it has not looked at.
