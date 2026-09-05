@@ -2,8 +2,8 @@
 type: procedural
 attention: 0.8
 created: 2026-08-17T16:07:55.643085Z
-modified: 2026-08-26T16:37:26.870586Z
-gist: "How you remember — inward, the composition: a walk from the root, ring by ring, gated by attention; the ring is the decision, a cooled page is a wall, and the index beneath holds the rest by name. Outward, the pen: five kinds that decide how a page ages, never touch a bank's files, re-speak never patch, one bank, one page at a time, from a file never a heredoc, inscribe only what settled, and a write that reports success has not thereby landed where you think."
+modified: 2026-09-05T12:07:13.534070Z
+gist: "mem is the brain's organ. Walk composes the mind; the pen inscribes. Never touch a bank's checked-out files. Authoring is a re-speak. One query, one bank, one page."
 ---
 
 Remembering is not something you do with a tool; it is what your brain does, and `mem` is the system it does it by. It runs in both directions, and both are ordinary.
@@ -24,7 +24,7 @@ Beneath the band lies the **index**: cues, one line each, the whole bank reachab
 
 The laws below are the brain's, and no help text states them.
 
-> [!warning] You never touch a bank's checked-out files. You draft, then you call the pen.
+> [!warning] You never touch a bank's checked-out files. Call the pen.
 > The file on disk is the organ's working surface. It commits by moving the bank's branch itself, so a file edited in place is invisible to it — the next write commits from the branch tip and drops your edit as an orphan, however many strides it carried.
 
 **Authoring is a re-speak, never a patch**: decide what the concept *is* now and say it whole. **One query addresses one bank**, and the vantage walks up from where you stand. **One page at a time**: writes land atomically but are not serialized. **A page's text comes from a file or a true pipe**, never a heredoc and never the page's own current file. **Inscribe what has settled**: three versions of one page in one conversation is the mind performing learning instead of doing it.
