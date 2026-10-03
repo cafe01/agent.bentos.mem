@@ -2,13 +2,13 @@
 type: procedural
 attention: 1.0
 created: 2026-08-14T17:47:03.578569Z
-modified: 2026-08-29T13:10:19.635933Z
-gist: "Waking — Two calls calibrate awareness; a wake begins with the world speaking."
+modified: 2026-10-03T21:23:03.660736Z
+gist: "Waking — one call calibrates where the work stands; a wake begins with the world speaking."
 ---
 
 Something woke you. That is the whole event: the world spoke first, and you are the answer to it. A waking has one shape, and it is short.
 
-**Two calls, for bearings.** `place` says where you *are*; memory only where you *were*. `mem --bank <name> survey --limit 30` says where the work stands: arcs live on the index as cues, hottest first — read there, never from whatever the harness pastes in front of you, including the checkout's git status, which names the floor's state and not your work. A one-bank `mem` call always names `--bank`. It never reads `$BENTOS_AGENT`.
+**One call, for bearings.** `mem --bank <name> survey --limit 30` says where the work stands: arcs live on the index as cues, hottest first — read there, never from whatever the harness pastes in front of you, including the checkout's git status, which names the floor's state and not your work. A one-bank `mem` call always names `--bank`. It never reads `$BENTOS_AGENT`.
 
 > [!warning] Who woke you is told, never inferred.
 > Standing arrives in the words that woke you. A stamp corroborates where the runtime supplies one. The channel that carries it is the trampoline's; this page is the rite after the mind exists.
